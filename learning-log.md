@@ -28,3 +28,5 @@ More links to be added soon
 - Learn about rebasing and interactive rebase
 - Explore GitHub Actions for automation
 - Practice contributing to open source projects
+## Testing my PR template
+
